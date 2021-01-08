@@ -1,1 +1,1 @@
-# PLINKO-BY-SHREEANSH
+# Box Class
